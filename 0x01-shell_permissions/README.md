@@ -1,1 +1,1 @@
-This file should be included in all ALX School Projects
+*This file should be included in all ALX School Projects*
