@@ -1,1 +1,2 @@
-# ALX week 2 project on Bash basics
+# 0x00. Shell, basics
+# 0x01. Shell, permissions
